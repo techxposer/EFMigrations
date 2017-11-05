@@ -1,0 +1,13 @@
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\Migrations.exe.config
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\Migrations.exe
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\Migrations.pdb
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\EntityFramework.dll
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\EntityFramework.xml
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\obj\Debug\Migrations.csprojResolveAssemblyReference.cache
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\obj\Debug\Migrations.exe
+D:\Sai\Projects\PlayGround\EntityFramework\Migrations\Migrations\obj\Debug\Migrations.pdb
+D:\Sai\Projects\SkyDrive\My\Projects\TechXposer\EFMigrations\Application\Migrations\bin\Debug\Migrations.exe.config
+D:\Sai\Projects\SkyDrive\My\Projects\TechXposer\EFMigrations\Application\Migrations\obj\Debug\Migrations.exe
+D:\Sai\Projects\SkyDrive\My\Projects\TechXposer\EFMigrations\Application\Migrations\obj\Debug\Migrations.pdb
